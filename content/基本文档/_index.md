@@ -1,7 +1,7 @@
 ---
-title: Basics
-weight: 5
-pre: "<b>1. </b>"
+title: 基本文档
+weight: 4
+pre: "<b>4. </b>"
 chapter: true
 ---
 
